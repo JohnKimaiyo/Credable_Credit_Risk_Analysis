@@ -30,7 +30,7 @@ WHERE [date_time] IS NOT NULL
   AND [rep_month] IS NOT NULL
   AND [repayment_type] IS NOT NULL;
 
--- lets claulate the profit or losss  and extract it to perfomr forecasing
+-- lets calculate the profit or loss  and extract it to perform forecasing
 SELECT 
     d.customer_id,
     d.disb_date,
