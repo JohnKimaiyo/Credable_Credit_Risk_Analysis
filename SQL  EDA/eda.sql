@@ -29,3 +29,6 @@ WHERE [date_time] IS NOT NULL
   AND [amount] IS NOT NULL
   AND [rep_month] IS NOT NULL
   AND [repayment_type] IS NOT NULL;
+
+
+
