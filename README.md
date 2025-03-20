@@ -15,3 +15,6 @@ Technical Requirements: ● Utilize SQL (or Spark SQL) for data analysis. ● Em
 Deliverables: ● A detailed report outlining your analysis methodology, assumptions, and key findings. ● SQL and Python notebooks demonstrating your analysis. ● Visualizations created using your chosen BI tool. ● All recommendations must be supported by quantitative evidence from the provided data.
 
 Evaluation Criteria: ● Analytical rigor and thoroughness. ● Clarity and effectiveness of visualizations. ● Reliability of forecasts. ● Practicality and feasibility of recommendations. ● Creativity and innovation in your approach.
+
+
+Youtube Demo https://youtu.be/PzmS5KDUMc0
